@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Hyperland-Sd4e.aternos.me",
+    "ip": "Hyperland-Sd4e.aternos.me:25244",
     "port": 25244,
     "version": "1.21.1"
   },
